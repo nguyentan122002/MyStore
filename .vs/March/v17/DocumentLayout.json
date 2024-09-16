@@ -1,0 +1,352 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\March\\March\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A28674D-C0D9-494D-8295-3A779E5D6A02}|March\\March.csproj|d:\\march\\march\\march\\services\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A28674D-C0D9-494D-8295-3A779E5D6A02}|March\\March.csproj|solutionrelative:march\\services\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A28674D-C0D9-494D-8295-3A779E5D6A02}|March\\March.csproj|d:\\march\\march\\march\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A28674D-C0D9-494D-8295-3A779E5D6A02}|March\\March.csproj|solutionrelative:march\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A28674D-C0D9-494D-8295-3A779E5D6A02}|March\\March.csproj|d:\\march\\march\\march\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A28674D-C0D9-494D-8295-3A779E5D6A02}|March\\March.csproj|solutionrelative:march\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A28674D-C0D9-494D-8295-3A779E5D6A02}|March\\March.csproj|d:\\march\\march\\march\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6A28674D-C0D9-494D-8295-3A779E5D6A02}|March\\March.csproj|solutionrelative:march\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A28674D-C0D9-494D-8295-3A779E5D6A02}|March\\March.csproj|d:\\march\\march\\march\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A28674D-C0D9-494D-8295-3A779E5D6A02}|March\\March.csproj|solutionrelative:march\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A28674D-C0D9-494D-8295-3A779E5D6A02}|March\\March.csproj|d:\\march\\march\\march\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A28674D-C0D9-494D-8295-3A779E5D6A02}|March\\March.csproj|solutionrelative:march\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A28674D-C0D9-494D-8295-3A779E5D6A02}|March\\March.csproj|d:\\march\\march\\march\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A28674D-C0D9-494D-8295-3A779E5D6A02}|March\\March.csproj|solutionrelative:march\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A28674D-C0D9-494D-8295-3A779E5D6A02}|March\\March.csproj|d:\\march\\march\\march\\controllers\\buggycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A28674D-C0D9-494D-8295-3A779E5D6A02}|March\\March.csproj|solutionrelative:march\\controllers\\buggycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A28674D-C0D9-494D-8295-3A779E5D6A02}|March\\March.csproj|d:\\march\\march\\march\\models\\usertokens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A28674D-C0D9-494D-8295-3A779E5D6A02}|March\\March.csproj|solutionrelative:march\\models\\usertokens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A28674D-C0D9-494D-8295-3A779E5D6A02}|March\\March.csproj|d:\\march\\march\\march\\models\\userlogins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A28674D-C0D9-494D-8295-3A779E5D6A02}|March\\March.csproj|solutionrelative:march\\models\\userlogins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A28674D-C0D9-494D-8295-3A779E5D6A02}|March\\March.csproj|d:\\march\\march\\march\\models\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A28674D-C0D9-494D-8295-3A779E5D6A02}|March\\March.csproj|solutionrelative:march\\models\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A28674D-C0D9-494D-8295-3A779E5D6A02}|March\\March.csproj|d:\\march\\march\\march\\interfaces\\iproductservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A28674D-C0D9-494D-8295-3A779E5D6A02}|March\\March.csproj|solutionrelative:march\\interfaces\\iproductservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A28674D-C0D9-494D-8295-3A779E5D6A02}|March\\March.csproj|d:\\march\\march\\march\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A28674D-C0D9-494D-8295-3A779E5D6A02}|March\\March.csproj|solutionrelative:march\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A28674D-C0D9-494D-8295-3A779E5D6A02}|March\\March.csproj|d:\\march\\march\\march\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A28674D-C0D9-494D-8295-3A779E5D6A02}|March\\March.csproj|solutionrelative:march\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A28674D-C0D9-494D-8295-3A779E5D6A02}|March\\March.csproj|d:\\march\\march\\march\\dtos\\basketitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A28674D-C0D9-494D-8295-3A779E5D6A02}|March\\March.csproj|solutionrelative:march\\dtos\\basketitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A28674D-C0D9-494D-8295-3A779E5D6A02}|March\\March.csproj|d:\\march\\march\\march\\dtos\\basketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A28674D-C0D9-494D-8295-3A779E5D6A02}|March\\March.csproj|solutionrelative:march\\dtos\\basketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A28674D-C0D9-494D-8295-3A779E5D6A02}|March\\March.csproj|d:\\march\\march\\march\\dtos\\input\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A28674D-C0D9-494D-8295-3A779E5D6A02}|March\\March.csproj|solutionrelative:march\\dtos\\input\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A28674D-C0D9-494D-8295-3A779E5D6A02}|March\\March.csproj|d:\\march\\march\\march\\models\\basketitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A28674D-C0D9-494D-8295-3A779E5D6A02}|March\\March.csproj|solutionrelative:march\\models\\basketitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A28674D-C0D9-494D-8295-3A779E5D6A02}|March\\March.csproj|d:\\march\\march\\march\\models\\basket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A28674D-C0D9-494D-8295-3A779E5D6A02}|March\\March.csproj|solutionrelative:march\\models\\basket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A28674D-C0D9-494D-8295-3A779E5D6A02}|March\\March.csproj|d:\\march\\march\\march\\context\\storedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A28674D-C0D9-494D-8295-3A779E5D6A02}|March\\March.csproj|solutionrelative:march\\context\\storedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\March\\March\\March\\appsettings.json",
+              "RelativeDocumentMoniker": "March\\appsettings.json",
+              "ToolTip": "D:\\March\\March\\March\\appsettings.json",
+              "RelativeToolTip": "March\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-14T03:12:33.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseApiController.cs",
+              "DocumentMoniker": "D:\\March\\March\\March\\Controllers\\BaseApiController.cs",
+              "RelativeDocumentMoniker": "March\\Controllers\\BaseApiController.cs",
+              "ToolTip": "D:\\March\\March\\March\\Controllers\\BaseApiController.cs",
+              "RelativeToolTip": "March\\Controllers\\BaseApiController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T03:17:42.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserLogins.cs",
+              "DocumentMoniker": "D:\\March\\March\\March\\Models\\UserLogins.cs",
+              "RelativeDocumentMoniker": "March\\Models\\UserLogins.cs",
+              "ToolTip": "D:\\March\\March\\March\\Models\\UserLogins.cs",
+              "RelativeToolTip": "March\\Models\\UserLogins.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T03:17:13.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserRoles.cs",
+              "DocumentMoniker": "D:\\March\\March\\March\\Models\\UserRoles.cs",
+              "RelativeDocumentMoniker": "March\\Models\\UserRoles.cs",
+              "ToolTip": "D:\\March\\March\\March\\Models\\UserRoles.cs",
+              "RelativeToolTip": "March\\Models\\UserRoles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T03:17:12.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserTokens.cs",
+              "DocumentMoniker": "D:\\March\\March\\March\\Models\\UserTokens.cs",
+              "RelativeDocumentMoniker": "March\\Models\\UserTokens.cs",
+              "ToolTip": "D:\\March\\March\\March\\Models\\UserTokens.cs",
+              "RelativeToolTip": "March\\Models\\UserTokens.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T03:17:07.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductServices.cs",
+              "DocumentMoniker": "D:\\March\\March\\March\\Services\\ProductServices.cs",
+              "RelativeDocumentMoniker": "March\\Services\\ProductServices.cs",
+              "ToolTip": "D:\\March\\March\\March\\Services\\ProductServices.cs",
+              "RelativeToolTip": "March\\Services\\ProductServices.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwAsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T03:16:58.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IProductServices.cs",
+              "DocumentMoniker": "D:\\March\\March\\March\\Interfaces\\IProductServices.cs",
+              "RelativeDocumentMoniker": "March\\Interfaces\\IProductServices.cs",
+              "ToolTip": "D:\\March\\March\\March\\Interfaces\\IProductServices.cs",
+              "RelativeToolTip": "March\\Interfaces\\IProductServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T03:16:52.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\March\\March\\March\\Program.cs",
+              "RelativeDocumentMoniker": "March\\Program.cs",
+              "ToolTip": "D:\\March\\March\\March\\Program.cs",
+              "RelativeToolTip": "March\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T00:13:31.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\March\\March\\March\\Startup.cs",
+              "RelativeDocumentMoniker": "March\\Startup.cs",
+              "ToolTip": "D:\\March\\March\\March\\Startup.cs",
+              "RelativeToolTip": "March\\Startup.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBoAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T22:43:15.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\March\\March\\March\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "March\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\March\\March\\March\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "March\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T03:17:20.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "D:\\March\\March\\March\\MiddleWare\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "March\\MiddleWare\\ExceptionMiddleware.cs",
+              "ToolTip": "D:\\March\\March\\March\\MiddleWare\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "March\\MiddleWare\\ExceptionMiddleware.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA1wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T03:16:49.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BasketController.cs",
+              "DocumentMoniker": "D:\\March\\March\\March\\Controllers\\BasketController.cs",
+              "RelativeDocumentMoniker": "March\\Controllers\\BasketController.cs",
+              "ToolTip": "D:\\March\\March\\March\\Controllers\\BasketController.cs",
+              "RelativeToolTip": "March\\Controllers\\BasketController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwB8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T13:26:02.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "D:\\March\\March\\March\\Dtos\\ProductDto.cs",
+              "RelativeDocumentMoniker": "March\\Dtos\\ProductDto.cs",
+              "ToolTip": "D:\\March\\March\\March\\Dtos\\ProductDto.cs",
+              "RelativeToolTip": "March\\Dtos\\ProductDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T03:16:26.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BuggyController.cs",
+              "DocumentMoniker": "D:\\March\\March\\March\\Controllers\\BuggyController.cs",
+              "RelativeDocumentMoniker": "March\\Controllers\\BuggyController.cs",
+              "ToolTip": "D:\\March\\March\\March\\Controllers\\BuggyController.cs",
+              "RelativeToolTip": "March\\Controllers\\BuggyController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T22:40:22.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreateProductDto.cs",
+              "DocumentMoniker": "D:\\March\\March\\March\\Dtos\\Input\\CreateProductDto.cs",
+              "RelativeDocumentMoniker": "March\\Dtos\\Input\\CreateProductDto.cs",
+              "ToolTip": "D:\\March\\March\\March\\Dtos\\Input\\CreateProductDto.cs",
+              "RelativeToolTip": "March\\Dtos\\Input\\CreateProductDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T03:16:10.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BasketDto.cs",
+              "DocumentMoniker": "D:\\March\\March\\March\\Dtos\\BasketDto.cs",
+              "RelativeDocumentMoniker": "March\\Dtos\\BasketDto.cs",
+              "ToolTip": "D:\\March\\March\\March\\Dtos\\BasketDto.cs",
+              "RelativeToolTip": "March\\Dtos\\BasketDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T23:36:26.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BasketItemDto.cs",
+              "DocumentMoniker": "D:\\March\\March\\March\\Dtos\\BasketItemDto.cs",
+              "RelativeDocumentMoniker": "March\\Dtos\\BasketItemDto.cs",
+              "ToolTip": "D:\\March\\March\\March\\Dtos\\BasketItemDto.cs",
+              "RelativeToolTip": "March\\Dtos\\BasketItemDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T23:37:56.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "StoreDbContext.cs",
+              "DocumentMoniker": "D:\\March\\March\\March\\Context\\StoreDbContext.cs",
+              "RelativeDocumentMoniker": "March\\Context\\StoreDbContext.cs",
+              "ToolTip": "D:\\March\\March\\March\\Context\\StoreDbContext.cs",
+              "RelativeToolTip": "March\\Context\\StoreDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T13:16:53.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Basket.cs",
+              "DocumentMoniker": "D:\\March\\March\\March\\Models\\Basket.cs",
+              "RelativeDocumentMoniker": "March\\Models\\Basket.cs",
+              "ToolTip": "D:\\March\\March\\March\\Models\\Basket.cs",
+              "RelativeToolTip": "March\\Models\\Basket.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAvwA0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T11:22:04.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BasketItem.cs",
+              "DocumentMoniker": "D:\\March\\March\\March\\Models\\BasketItem.cs",
+              "RelativeDocumentMoniker": "March\\Models\\BasketItem.cs",
+              "ToolTip": "D:\\March\\March\\March\\Models\\BasketItem.cs",
+              "RelativeToolTip": "March\\Models\\BasketItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T13:10:24.568Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
